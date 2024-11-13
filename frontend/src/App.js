@@ -1,4 +1,4 @@
-const socket = io("https://chat-app-delta-sepia.vercel.app/"); // Replace with your backend URL
+const socket = io("https://chat-gyoj5fx15-tri-spectres-projects.vercel.app"); // Replace with your backend URL
 
 // DOM elements
 const sendButton = document.getElementById("send-button");
